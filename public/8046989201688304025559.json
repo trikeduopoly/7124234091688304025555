@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094988660032",
+    "project_id": "chandra-medical-insurance",
+    "storage_bucket": "chandra-medical-insurance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094988660032:android:24fba0ac2a3c29e9eacea5",
+        "android_client_info": {
+          "package_name": "com.privatemedicalinsurance.medicalinsurancebillingandcoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094988660032-4b89l3uc6v6nsf95duvm24cg7fgmdlbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1UVdlttew0aBYy974quZ68aP0D2n9gWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094988660032-4b89l3uc6v6nsf95duvm24cg7fgmdlbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
